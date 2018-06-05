@@ -1,7 +1,7 @@
-kk# from conf.settings import *
-# from producers import producer_order
-# from processors import consumer_order, ratio_cal, congestions_cal
-# import sys
+from conf.settings import *
+from producers import producer_order
+from processors import consumer_order, ratio_cal, congestions_cal
+import sys
 import argparse
 
 

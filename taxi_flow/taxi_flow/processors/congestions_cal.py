@@ -7,12 +7,13 @@ import scipy.stats as ss
 from sqlalchemy import create_engine
 
 engine = create_engine("mysql+mysqlconnector://root:toor@localhost:3306/grab")
-vendor_timeseries_df = pd.read_csv("data/vendor_timeseries_with_driverID.csv")
 taxi_zone_lookup = pd.read_csv("data/taxi_zone_lookup.csv", index_col="Unnamed: 0")
+
+vendor_timeseries_df = pd.read_csv("data/vendor_timeseries_with_driverID.csv")
 vendor_timeseries_df["datetime"] = pd.to_datetime(vendor_timeseries_df["datetime"])
 
 
-def main():
+def main(vendor_timeseries_df):
     def get_cong_serviety_list(x1, x2, K):  ##x1 time cost, x2 distance, k-number of centroids
         X = np.array(list(zip(x1, x2))).reshape(len(x1), 2)
         kmeans_model = KMeans(n_clusters=K).fit(X)
@@ -57,8 +58,8 @@ def main():
 if __name__ == "__main__":
 
     for i in range(100, 1000, 100):
-        cong_df = congestions(vendor_timeseries_df[:i])
-        print (cong_df[:2])
+        cong_df = main(vendor_timeseries_df[:i])
+        print(cong_df[:2])
 
 
 # cong_df.to_sql(con=engine,name="congestion_df",if_exists="append",chunksize=1000)
