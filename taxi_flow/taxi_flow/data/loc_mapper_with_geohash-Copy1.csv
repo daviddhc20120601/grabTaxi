@@ -1,0 +1,266 @@
+,LocationID,Borough,Zone,service_zone,lat,lon,"lat,lon",lat_6,lon_6,geohash_6
+0,1,EWR,Newark Airport,EWR,40.68906405,-74.1772548503535,"(40.68906405, -74.1772548503535)",40.69,-74.2,dr5r2p
+1,2,Queens,Jamaica Bay,Boro Zone,40.6039936,-73.8354124,"(40.6039936, -73.8354124)",40.6,-73.8,dr5qzz
+2,3,Bronx,Allerton/Pelham Gardens,Boro Zone,40.8612,-73.8448,"(40.8612, -73.8448)",40.86,-73.8,dr72rw
+3,4,Manhattan,Alphabet City,Yellow Zone,40.7251022,-73.9795833,"(40.7251022, -73.9795833)",40.72,-74.,dr5rst
+4,5,Staten Island,Arden Heights,Boro Zone,40.5576295,-74.1886086467958,"(40.5576295, -74.1886086467958)",40.56,-74.2,dr5nxz
+5,6,Staten Island,Arrochar/Fort Wadsworth,Boro Zone,40.60076325,-74.0578531843121,"(40.60076325, -74.0578531843121)",40.6,-74.1,dr5qfz
+6,7,Queens,Astoria,Boro Zone,40.7720145,-73.9302673,"(40.7720145, -73.9302673)",40.77,-73.9,dr5rvw
+7,8,Queens,Astoria Park,Boro Zone,40.7788277,-73.9226264888097,"(40.7788277, -73.9226264888097)",40.78,-73.9,dr5rvz
+8,9,Queens,Auburndale,Boro Zone,40.7658975,-73.7943131,"(40.7658975, -73.7943131)",40.77,-73.8,dr5xbv
+9,10,Queens,Baisley Park,Boro Zone,40.6837863,-73.7696805,"(40.6837863, -73.7696805)",40.69,-73.8,dr5x3q
+10,11,Brooklyn,Bath Beach,Boro Zone,40.5964509,-73.9946592893255,"(40.5964509, -73.9946592893255)",40.6,-74.,dr5qun
+11,12,Manhattan,Battery Park,Yellow Zone,40.70291705,-74.0158007739805,"(40.70291705, -74.0158007739805)",40.7,-74.,dr5re9
+12,13,Manhattan,Battery Park City,Yellow Zone,40.7110166,-74.0169369,"(40.7110166, -74.0169369)",40.71,-74.,dr5ree
+13,14,Brooklyn,Bay Ridge,Boro Zone,40.6339929,-74.0145841,"(40.6339929, -74.0145841)",40.64,-74.,dr5r5v
+14,15,Queens,Bay Terrace/Fort Totten,Boro Zone,40.79642835,-73.7795126090753,"(40.79642835, -73.7795126090753)",40.79,-73.8,dr7814
+15,16,Queens,Bayside,Boro Zone,40.7684351,-73.7770774,"(40.7684351, -73.7770774)",40.77,-73.8,dr5xcj
+16,17,Brooklyn,Bedford,Boro Zone,40.7202445,-73.9554250639011,"(40.7202445, -73.9554250639011)",40.72,-74.,dr5rth
+17,18,Bronx,Bedford Park,Boro Zone,40.8700999,-73.8856912,"(40.8700999, -73.8856912)",40.87,-73.9,dr72w8
+18,19,Queens,Bellerose,Boro Zone,40.7327778,-73.7177778,"(40.7327778, -73.7177778)",40.73,-73.7,dr5xdx
+19,20,Bronx,Belmont,Boro Zone,40.8552778,-73.8863889,"(40.8552778, -73.8863889)",40.86,-73.9,dr72qt
+20,21,Brooklyn,Bensonhurst East,Boro Zone,40.6026115,-73.9930818,"(40.6026115, -73.9930818)",40.6,-74.,dr5qup
+21,22,Brooklyn,Bensonhurst West,Boro Zone,40.6026115,-73.9930818,"(40.6026115, -73.9930818)",40.6,-74.,dr5qup
+22,23,Staten Island,Bloomfield/Emerson Hill,Boro Zone,40.6085851,-74.0945642,"(40.6085851, -74.0945642)",40.61,-74.1,dr5r1b
+23,24,Manhattan,Bloomingdale,Yellow Zone,40.7991667,-73.9658333,"(40.7991667, -73.9658333)",40.8,-74.,dr72hg
+24,25,Brooklyn,Boerum Hill,Boro Zone,40.68562615,-73.9841706580728,"(40.68562615, -73.9841706580728)",40.69,-74.,dr5rkq
+25,26,Brooklyn,Borough Park,Boro Zone,40.633993,-73.9968059,"(40.633993, -73.9968059)",40.64,-74.,dr5rhj
+26,27,Queens,Breezy Point/Fort Tilden/Riis Beach,Boro Zone,40.56185975,-73.8956783007286,"(40.56185975, -73.8956783007286)",40.56,-73.9,dr5qy2
+27,28,Queens,Briarwood/Jamaica Hills,Boro Zone,40.7128,-73.7993,"(40.7128, -73.7993)",40.71,-73.8,dr5x8e
+28,29,Brooklyn,Brighton Beach,Boro Zone,40.577883,-73.9595826,"(40.577883, -73.9595826)",40.58,-74.,dr5qv4
+29,30,Queens,Broad Channel,Boro Zone,40.6064008,-73.8190187972814,"(40.6064008, -73.8190187972814)",40.61,-73.8,dr5x00
+30,31,Bronx,Bronx Park,Boro Zone,40.85862575,-73.8759261447257,"(40.85862575, -73.8759261447257)",40.86,-73.9,dr72qy
+31,32,Bronx,Bronxdale,Boro Zone,40.8506558,-73.8665241,"(40.8506558, -73.8665241)",40.85,-73.9,dr72rh
+32,33,Brooklyn,Brooklyn Heights,Boro Zone,40.69608485,-73.9950278391265,"(40.69608485, -73.9950278391265)",40.7,-74.,dr5rs0
+33,34,Brooklyn,Brooklyn Navy Yard,Boro Zone,40.70341085,-73.9699679965206,"(40.70341085, -73.9699679965206)",40.7,-74.,dr5rsc
+34,35,Brooklyn,Brownsville,Boro Zone,40.6672357,-73.9067979,"(40.6672357, -73.9067979)",40.67,-73.9,dr5rq5
+35,36,Brooklyn,Bushwick North,Boro Zone,40.6942696,-73.9187482,"(40.6942696, -73.9187482)",40.7,-73.9,dr5rtb
+36,37,Brooklyn,Bushwick South,Boro Zone,40.6942696,-73.9187482,"(40.6942696, -73.9187482)",40.7,-73.9,dr5rtb
+37,38,Queens,Cambria Heights,Boro Zone,40.6945474,-73.7384653,"(40.6945474, -73.7384653)",40.7,-73.7,dr5xd0
+38,39,Brooklyn,Canarsie,Boro Zone,40.643715,-73.9006921,"(40.643715, -73.9006921)",40.64,-73.9,dr5rnq
+39,40,Brooklyn,Carroll Gardens,Boro Zone,40.6784201,-73.9948021,"(40.6784201, -73.9948021)",40.68,-74.,dr5rkj
+40,41,Manhattan,Central Harlem,Boro Zone,40.8078786,-73.9454154,"(40.8078786, -73.9454154)",40.81,-73.9,dr72jk
+41,42,Manhattan,Central Harlem North,Boro Zone,40.8078786,-73.9454154,"(40.8078786, -73.9454154)",40.81,-73.9,dr72jk
+42,43,Manhattan,Central Park,Yellow Zone,40.78384615,-73.964570666545,"(40.78384615, -73.964570666545)",40.78,-74.,dr72hb
+43,44,Staten Island,Charleston/Tottenville,Boro Zone,40.5112167,-74.2493117,"(40.5112167, -74.2493117)",40.51,-74.3,dr5nqq
+44,45,Manhattan,Chinatown,Yellow Zone,40.7164913,-73.9962504,"(40.7164913, -73.9962504)",40.72,-74.,dr5rsh
+45,46,Bronx,City Island,Boro Zone,40.847456,-73.7864663715554,"(40.847456, -73.7864663715554)",40.85,-73.8,dr782u
+46,47,Bronx,Claremont/Bathgate,Boro Zone,40.841287,-73.900155,"(40.841287, -73.900155)",40.84,-73.9,dr72q6
+47,48,Manhattan,Clinton East,Yellow Zone,40.7573238,-73.995417,"(40.7573238, -73.995417)",40.76,-74.,dr5ru5
+48,49,Brooklyn,Clinton Hill,Boro Zone,40.6897222,-73.9652778,"(40.6897222, -73.9652778)",40.69,-74.,dr5rkz
+49,50,Manhattan,Clinton West,Yellow Zone,40.7573238,-73.995417,"(40.7573238, -73.995417)",40.76,-74.,dr5ru5
+50,51,Bronx,Co-Op City,Boro Zone,40.8738889,-73.8294444,"(40.8738889, -73.8294444)",40.87,-73.8,dr72xb
+51,52,Brooklyn,Cobble Hill,Boro Zone,40.6875,-73.9980556,"(40.6875, -73.9980556)",40.69,-74.,dr5rkn
+52,53,Queens,College Point,Boro Zone,40.7876014,-73.8459682,"(40.7876014, -73.8459682)",40.79,-73.8,dr72p9
+53,54,Brooklyn,Columbia Street,Boro Zone,40.682377,-74.003979,"(40.682377, -74.003979)",40.69,-74.,dr5r7y
+54,55,Brooklyn,Coney Island,Boro Zone,40.575789,-73.985145,"(40.575789, -73.985145)",40.58,-74.,dr5qu6
+55,56,Queens,Corona,Boro Zone,40.7469593,-73.8601456,"(40.7469593, -73.8601456)",40.75,-73.9,dr5rz3
+56,57,Queens,Corona,Boro Zone,40.7469593,-73.8601456,"(40.7469593, -73.8601456)",40.75,-73.9,dr5rz3
+57,58,Bronx,Country Club,Boro Zone,40.8391667,-73.8197222,"(40.8391667, -73.8197222)",40.84,-73.8,dr7824
+58,59,Bronx,Crotona Park,Boro Zone,40.8389019,-73.8938645115504,"(40.8389019, -73.8938645115504)",40.84,-73.9,dr72qd
+59,60,Bronx,Crotona Park East,Boro Zone,40.8366014,-73.8929618,"(40.8366014, -73.8929618)",40.84,-73.9,dr72qd
+60,61,Brooklyn,Crown Heights North,Boro Zone,40.667471,-73.9435662,"(40.667471, -73.9435662)",40.67,-73.9,dr5rm7
+61,62,Brooklyn,Crown Heights South,Boro Zone,40.667471,-73.9435662,"(40.667471, -73.9435662)",40.67,-73.9,dr5rm7
+62,63,Brooklyn,Cypress Hills,Boro Zone,40.6770477,-73.8912474,"(40.6770477, -73.8912474)",40.68,-73.9,dr5rqt
+63,64,Queens,Douglaston,Boro Zone,40.768713,-73.7470765,"(40.768713, -73.7470765)",40.77,-73.7,dr5xcv
+64,65,Brooklyn,Downtown Brooklyn/MetroTech,Boro Zone,40.69405415,-73.9857098,"(40.69405415, -73.9857098)",40.7,-74.,dr5rs2
+65,66,Brooklyn,DUMBO/Vinegar Hill,Boro Zone,40.7037,-73.9823,"(40.7037, -73.9823)",40.7,-74.,dr5rs3
+66,67,Brooklyn,Dyker Heights,Boro Zone,40.6216335,-74.0111949190155,"(40.6216335, -74.0111949190155)",40.62,-74.,dr5r5f
+67,68,Manhattan,East Chelsea,Yellow Zone,40.7464906,-74.0015283,"(40.7464906, -74.0015283)",40.75,-74.,dr5ru1
+68,69,Bronx,East Concourse/Concourse Village,Boro Zone,40.82386815,-73.9211809121883,"(40.82386815, -73.9211809121883)",40.82,-73.9,dr72jz
+69,70,Queens,East Elmhurst,Boro Zone,40.7612123,-73.8651358,"(40.7612123, -73.8651358)",40.76,-73.9,dr5rzh
+70,71,Brooklyn,East Flatbush/Farragut,Boro Zone,40.635817,-73.953423,"(40.635817, -73.953423)",40.64,-74.,dr5rjj
+71,72,Brooklyn,East Flatbush/Remsen Village,Boro Zone,40.69395585,-73.9931490556427,"(40.69395585, -73.9931490556427)",40.7,-74.,dr5rs0
+72,73,Queens,East Flushing,Boro Zone,40.7654301,-73.8174291,"(40.7654301, -73.8174291)",40.77,-73.8,dr5xbj
+73,74,Manhattan,East Harlem North,Boro Zone,40.7947222,-73.9425,"(40.7947222, -73.9425)",40.79,-73.9,dr72j6
+74,75,Manhattan,East Harlem South,Boro Zone,40.7947222,-73.9425,"(40.7947222, -73.9425)",40.79,-73.9,dr72j6
+75,76,Brooklyn,East New York,Boro Zone,40.6501038,-73.9495823,"(40.6501038, -73.9495823)",40.65,-74.,dr5rm0
+76,77,Brooklyn,East New York/Pennsylvania Avenue,Boro Zone,40.6646501,-73.894767,"(40.6646501, -73.894767)",40.66,-73.9,dr5rq6
+77,78,Bronx,East Tremont,Boro Zone,40.8453781,-73.8909693,"(40.8453781, -73.8909693)",40.84,-73.9,dr72qe
+78,79,Manhattan,East Village,Yellow Zone,40.7292688,-73.9873613,"(40.7292688, -73.9873613)",40.73,-74.,dr5rsq
+79,80,Brooklyn,East Williamsburg,Boro Zone,40.7044164,-73.9366129,"(40.7044164, -73.9366129)",40.71,-73.9,dr5rtd
+80,81,Bronx,Eastchester,Boro Zone,40.8884329,-73.8281895,"(40.8884329, -73.8281895)",40.89,-73.8,dr72xg
+81,82,Queens,Elmhurst,Boro Zone,40.7365804,-73.8783932,"(40.7365804, -73.8783932)",40.73,-73.9,dr5rwz
+82,83,Queens,Elmhurst/Maspeth,Boro Zone,40.723158,-73.912637,"(40.723158, -73.912637)",40.72,-73.9,dr5rwj
+83,84,Staten Island,Eltingville/Annadale/Prince's Bay,Boro Zone,40.5445496,-74.1765324,"(40.5445496, -74.1765324)",40.54,-74.2,dr5q8h
+84,85,Brooklyn,Erasmus,Boro Zone,40.64978,-73.949465,"(40.64978, -73.949465)",40.65,-74.,dr5rm0
+85,86,Queens,Far Rockaway,Boro Zone,40.6053825,-73.7551326,"(40.6053825, -73.7551326)",40.6,-73.8,dr5wcx
+86,87,Manhattan,Financial District North,Yellow Zone,40.758896,-73.98513,"(40.758896, -73.98513)",40.76,-74.,dr5ru7
+87,88,Manhattan,Financial District South,Yellow Zone,40.758896,-73.98513,"(40.758896, -73.98513)",40.76,-74.,dr5ru7
+88,89,Brooklyn,Flatbush/Ditmas Park,Boro Zone,40.6375307,-73.9634487632331,"(40.6375307, -73.9634487632331)",40.64,-74.,dr5rhv
+89,90,Manhattan,Flatiron,Yellow Zone,40.7410861,-73.9896298241625,"(40.7410861, -73.9896298241625)",40.74,-74.,dr5ru2
+90,91,Brooklyn,Flatlands,Boro Zone,40.6212155,-73.9348597,"(40.6212155, -73.9348597)",40.62,-73.9,dr5rjd
+91,92,Queens,Flushing,Boro Zone,40.7654301,-73.8174291,"(40.7654301, -73.8174291)",40.77,-73.8,dr5xbj
+92,93,Queens,Flushing Meadows-Corona Park,Boro Zone,40.74077035,-73.8433777142299,"(40.74077035, -73.8433777142299)",40.74,-73.8,dr5rz8
+93,94,Bronx,Fordham South,Boro Zone,40.8592667,-73.8984694,"(40.8592667, -73.8984694)",40.86,-73.9,dr72qq
+94,95,Queens,Forest Hills,Boro Zone,36.5805701,-82.1231338,"(36.5805701, -82.1231338)",36.58,-82.1,dnt855
+95,96,Queens,Forest Park/Highland Park,Boro Zone,40.68755555,-73.8877402457071,"(40.68755555, -73.8877402457071)",40.69,-73.9,dr5rqw
+96,97,Brooklyn,Fort Greene,Boro Zone,40.69092305,-73.9743583848668,"(40.69092305, -73.9743583848668)",40.69,-74.,dr5rkx
+97,98,Queens,Fresh Meadows,Boro Zone,40.73613835,-73.7800882817176,"(40.73613835, -73.7800882817176)",40.73,-73.8,dr5x9p
+98,99,Staten Island,Freshkills Park,Boro Zone,40.5791894,-74.1799255450048,"(40.5791894, -74.1799255450048)",40.58,-74.2,dr5nzg
+99,100,Manhattan,Garment District,Yellow Zone,40.7547,-73.9916,"(40.7547, -73.9916)",40.76,-74.,dr5ru7
+100,101,Queens,Glen Oaks,Boro Zone,40.7470463,-73.7115199,"(40.7470463, -73.7115199)",40.75,-73.7,dr5xf9
+101,102,Queens,Glendale,Boro Zone,40.7014917,-73.8868028,"(40.7014917, -73.8868028)",40.7,-73.9,dr5rw9
+102,103,Manhattan,Governor's Island/Ellis Island/Liberty Island,Yellow Zone,40.6985835,-74.0420180367309,"(40.6985835, -74.0420180367309)",40.7,-74.,dr5re0
+103,104,Manhattan,Governor's Island/Ellis Island/Liberty Island,Yellow Zone,40.6985835,-74.0420180367309,"(40.6985835, -74.0420180367309)",40.7,-74.,dr5re0
+104,105,Manhattan,Governor's Island/Ellis Island/Liberty Island,Yellow Zone,40.6985835,-74.0420180367309,"(40.6985835, -74.0420180367309)",40.7,-74.,dr5re0
+105,106,Brooklyn,Gowanus,Boro Zone,40.6791695,-73.9885041,"(40.6791695, -73.9885041)",40.68,-74.,dr5rkm
+106,107,Manhattan,Gramercy,Yellow Zone,40.7379303,-73.985925,"(40.7379303, -73.985925)",40.74,-74.,dr5ru2
+107,108,Brooklyn,Gravesend,Boro Zone,40.5952468,-73.9729643108133,"(40.5952468, -73.9729643108133)",40.6,-74.,dr5quw
+108,109,Staten Island,Great Kills,Boro Zone,40.5542718,-74.1515318,"(40.5542718, -74.1515318)",40.55,-74.2,dr5q8w
+109,110,Staten Island,Great Kills Park,Boro Zone,40.54708575,-74.1276982134664,"(40.54708575, -74.1276982134664)",40.55,-74.1,dr5q9j
+110,111,Brooklyn,Green-Wood Cemetery,Boro Zone,40.65221185,-73.9910006803783,"(40.65221185, -73.9910006803783)",40.65,-74.,dr5rk2
+111,112,Brooklyn,Greenpoint,Boro Zone,40.7237134,-73.9509714,"(40.7237134, -73.9509714)",40.72,-74.,dr5rtj
+112,113,Manhattan,Greenwich Village North,Yellow Zone,40.7335844,-74.0028172,"(40.7335844, -74.0028172)",40.73,-74.,dr5rsp
+113,114,Manhattan,Greenwich Village South,Yellow Zone,40.7335844,-74.0028172,"(40.7335844, -74.0028172)",40.73,-74.,dr5rsp
+114,115,Staten Island,Grymes Hill/Clifton,Boro Zone,40.6201041,-74.0770857,"(40.6201041, -74.0770857)",40.62,-74.1,dr5r46
+115,116,Manhattan,Hamilton Heights,Boro Zone,40.8241451,-73.9500618,"(40.8241451, -73.9500618)",40.82,-74.,dr72jp
+116,117,Queens,Hammels/Arverne,Boro Zone,40.5934173,-73.7895462,"(40.5934173, -73.7895462)",40.59,-73.8,dr5wbv
+117,118,Staten Island,Heartland Village/Todt Hill,Boro Zone,40.5834557,-74.1496048,"(40.5834557, -74.1496048)",40.58,-74.2,dr5qbe
+118,119,Bronx,Highbridge,Boro Zone,40.83653245,-73.9295956392864,"(40.83653245, -73.9295956392864)",40.84,-73.9,dr72md
+119,120,Manhattan,Highbridge Park,Boro Zone,40.84606425,-73.9297059291312,"(40.84606425, -73.9297059291312)",40.84,-73.9,dr72me
+120,121,Queens,Hillcrest/Pomonok,Boro Zone,40.7324478,-73.8088309397965,"(40.7324478, -73.8088309397965)",40.73,-73.8,dr5x8r
+121,122,Queens,Hollis,Boro Zone,40.7101715,-73.7666684,"(40.7101715, -73.7666684)",40.71,-73.8,dr5x97
+122,123,Brooklyn,Homecrest,Boro Zone,40.5861178,-73.9573067992795,"(40.5861178, -73.9573067992795)",40.59,-74.,dr5qvh
+123,124,Queens,Howard Beach,Boro Zone,40.6578815,-73.8362459,"(40.6578815, -73.8362459)",40.66,-73.8,dr5rrc
+124,125,Manhattan,Hudson Sq,Yellow Zone,40.7902778,-73.9597222,"(40.7902778, -73.9597222)",40.79,-74.,dr72j1
+125,126,Bronx,Hunts Point,Boro Zone,40.8126008,-73.8840247,"(40.8126008, -73.8840247)",40.81,-73.9,dr72nt
+126,127,Manhattan,Inwood,Boro Zone,40.8656555,-73.9268035,"(40.8656555, -73.9268035)",40.87,-73.9,dr72mz
+127,128,Manhattan,Inwood Hill Park,Boro Zone,40.87227365,-73.9254270915026,"(40.87227365, -73.9254270915026)",40.87,-73.9,dr72tb
+128,129,Queens,Jackson Heights,Boro Zone,40.7556561,-73.8857755,"(40.7556561, -73.8857755)",40.76,-73.9,dr5rye
+129,130,Queens,Jamaica,Boro Zone,40.6914852,-73.8056771,"(40.6914852, -73.8056771)",40.69,-73.8,dr5x2x
+130,131,Queens,Jamaica Estates,Boro Zone,17.9927368,-76.9790197,"(17.9927368, -76.9790197)",17.99,-77.,d71q27
+131,132,Queens,JFK Airport,Airports,40.6429479,-73.7793733748521,"(40.6429479, -73.7793733748521)",40.64,-73.8,dr5x1n
+132,133,Brooklyn,Kensington,Boro Zone,40.6462149,-73.970694,"(40.6462149, -73.970694)",40.65,-74.,dr5rhz
+133,134,Queens,Kew Gardens,Boro Zone,40.7139415,-73.830742,"(40.7139415, -73.830742)",40.71,-73.8,dr5rxg
+134,135,Queens,Kew Gardens Hills,Boro Zone,40.7385,-73.8107,"(40.7385, -73.8107)",40.74,-73.8,dr5xb2
+135,136,Bronx,Kingsbridge Heights,Boro Zone,40.8725702,-73.9026619,"(40.8725702, -73.9026619)",40.87,-73.9,dr72w2
+136,137,Manhattan,Kips Bay,Yellow Zone,40.7395463,-73.9770832,"(40.7395463, -73.9770832)",40.74,-74.,dr5ru8
+137,138,Queens,LaGuardia Airport,Airports,40.77550135,-73.8730604792763,"(40.77550135, -73.8730604792763)",40.77,-73.9,dr5ryy
+138,139,Queens,Laurelton,Boro Zone,40.668518,-73.7518434,"(40.668518, -73.7518434)",40.67,-73.8,dr5x3e
+139,140,Manhattan,Lenox Hill East,Yellow Zone,40.766539,-73.9589273158867,"(40.766539, -73.9589273158867)",40.77,-74.,dr5rvj
+140,141,Manhattan,Lenox Hill West,Yellow Zone,40.766539,-73.9589273158867,"(40.766539, -73.9589273158867)",40.77,-74.,dr5rvj
+141,142,Manhattan,Lincoln Square East,Yellow Zone,40.7725238,-73.9859525,"(40.7725238, -73.9859525)",40.77,-74.,dr5ruq
+142,143,Manhattan,Lincoln Square West,Yellow Zone,40.7725238,-73.9859525,"(40.7725238, -73.9859525)",40.77,-74.,dr5ruq
+143,144,Manhattan,Little Italy/NoLiTa,Yellow Zone,40.7225414,-73.993955,"(40.7225414, -73.993955)",40.72,-74.,dr5rsj
+144,145,Queens,Long Island City/Hunters Point,Boro Zone,37.730537,-122.372246,"(37.730537, -122.372246)",37.73,-122.4,9q8yxk
+145,146,Queens,Long Island City/Queens Plaza,Boro Zone,40.7490058,-73.9370491,"(40.7490058, -73.9370491)",40.75,-73.9,dr5rvd
+146,147,Bronx,Longwood,Boro Zone,40.8173229,-73.8993029,"(40.8173229, -73.8993029)",40.82,-73.9,dr72nq
+147,148,Manhattan,Lower East Side,Yellow Zone,40.7159357,-73.9868057,"(40.7159357, -73.9868057)",40.72,-74.,dr5rsk
+148,149,Brooklyn,Madison,Boro Zone,30.4598068,-83.4138978,"(30.4598068, -83.4138978)",30.46,-83.4,djktmc
+149,150,Brooklyn,Manhattan Beach,Boro Zone,40.57667355,-73.9410673306364,"(40.57667355, -73.9410673306364)",40.58,-73.9,dr5qv6
+150,151,Manhattan,Manhattan Valley,Yellow Zone,40.7902778,-73.9597222,"(40.7902778, -73.9597222)",40.79,-74.,dr72j1
+151,152,Manhattan,Manhattanville,Boro Zone,40.8158912,-73.9562747,"(40.8158912, -73.9562747)",40.82,-74.,dr72jn
+152,153,Manhattan,Marble Hill,Boro Zone,40.87470965,-73.9119788977053,"(40.87470965, -73.9119788977053)",40.88,-73.9,dr72w1
+153,154,Brooklyn,Marine Park/Floyd Bennett Field,Boro Zone,40.5851073,-73.8915613,"(40.5851073, -73.8915613)",40.59,-73.9,dr5qys
+154,155,Brooklyn,Marine Park/Mill Basin,Boro Zone,40.6032495,-73.9068747,"(40.6032495, -73.9068747)",40.6,-73.9,dr5qyp
+155,156,Staten Island,Mariners Harbor,Boro Zone,40.6367701,-74.1587547,"(40.6367701, -74.1587547)",40.64,-74.2,dr5r0m
+156,157,Queens,Maspeth,Boro Zone,40.723158,-73.912637,"(40.723158, -73.912637)",40.72,-73.9,dr5rwj
+157,158,Manhattan,Meatpacking/West Village West,Yellow Zone,39.199403,-96.5925040541596,"(39.199403, -96.5925040541596)",39.2,-96.6,9ygr1b
+158,159,Bronx,Melrose South,Boro Zone,40.824545,-73.9104143,"(40.824545, -73.9104143)",40.82,-73.9,dr72np
+159,160,Queens,Middle Village,Boro Zone,40.7182153,-73.8786698186696,"(40.7182153, -73.8786698186696)",40.72,-73.9,dr5rwu
+160,161,Manhattan,Midtown Center,Yellow Zone,40.758896,-73.98513,"(40.758896, -73.98513)",40.76,-74.,dr5ru7
+161,162,Manhattan,Midtown East,Yellow Zone,40.7474565,-73.9670345,"(40.7474565, -73.9670345)",40.75,-74.,dr5ruc
+162,163,Manhattan,Midtown North,Yellow Zone,40.7677778,-73.9913889,"(40.7677778, -73.9913889)",40.77,-74.,dr5rum
+163,164,Manhattan,Midtown South,Yellow Zone,40.7677778,-73.9913889,"(40.7677778, -73.9913889)",40.77,-74.,dr5rum
+164,165,Brooklyn,Midwood,Boro Zone,40.6188823,-73.9654889,"(40.6188823, -73.9654889)",40.62,-74.,dr5rhf
+165,166,Manhattan,Morningside Heights,Boro Zone,40.824545,-73.9104143,"(40.824545, -73.9104143)",40.82,-73.9,dr72np
+166,167,Bronx,Morrisania/Melrose,Boro Zone,40.8015147,-73.9095811,"(40.8015147, -73.9095811)",40.8,-73.9,dr72n5
+167,168,Bronx,Mott Haven/Port Morris,Boro Zone,40.8489,-73.9051,"(40.8489, -73.9051)",40.85,-73.9,dr72qh
+168,169,Bronx,Mount Hope,Boro Zone,40.7481574,-73.97875,"(40.7481574, -73.97875)",40.75,-74.,dr5ru9
+169,170,Manhattan,Murray Hill,Yellow Zone,40.76,-73.8130556,"(40.76, -73.8130556)",40.76,-73.8,dr5xbk
+170,171,Queens,Murray Hill-Queens,Boro Zone,40.5731606,-74.094586,"(40.5731606, -74.094586)",40.58,-74.1,dr5qcf
+171,172,Staten Island,New Dorp/Midland Beach,Boro Zone,40.74507575,-73.8489883625343,"(40.74507575, -73.8489883625343)",40.75,-73.8,dr5rz9
+172,173,Queens,North Corona,Boro Zone,40.8772593,-73.8768626,"(40.8772593, -73.8768626)",40.88,-73.9,dr72wc
+173,174,Bronx,Norwood,Boro Zone,40.753991,-73.765966,"(40.753991, -73.765966)",40.76,-73.8,dr5xc7
+174,175,Queens,Oakland Gardens,Boro Zone,40.563994,-74.1159754,"(40.563994, -74.1159754)",40.56,-74.1,dr5qc2
+175,176,Staten Island,Oakwood,Boro Zone,40.6757317,-73.9124338,"(40.6757317, -73.9124338)",40.67,-73.9,dr5rqh
+176,177,Brooklyn,Ocean Hill,Boro Zone,40.577115,-73.968352,"(40.577115, -73.968352)",40.58,-74.,dr5quf
+177,178,Brooklyn,Ocean Parkway South,Boro Zone,40.7720145,-73.9302673,"(40.7720145, -73.9302673)",40.77,-73.9,dr5rvw
+178,179,Queens,Old Astoria,Boro Zone,40.67677,-73.8437461,"(40.67677, -73.8437461)",40.67,-73.8,dr5rrs
+179,180,Queens,Ozone Park,Boro Zone,40.6701033,-73.9859723,"(40.6701033, -73.9859723)",40.67,-74.,dr5rk7
+180,181,Brooklyn,Park Slope,Boro Zone,40.8389893,-73.8604128,"(40.8389893, -73.8604128)",40.84,-73.9,dr72r6
+181,182,Bronx,Parkchester,Boro Zone,40.8505556,-73.8333333,"(40.8505556, -73.8333333)",40.85,-73.8,dr72ru
+182,183,Bronx,Pelham Bay,Boro Zone,40.85413105,-73.8221733014434,"(40.85413105, -73.8221733014434)",40.86,-73.8,dr782j
+183,184,Bronx,Pelham Bay Park,Boro Zone,40.8575923,-73.85963606359,"(40.8575923, -73.85963606359)",40.86,-73.9,dr72rm
+184,185,Bronx,Pelham Parkway,Boro Zone,40.750298,-73.993324,"(40.750298, -73.993324)",40.75,-74.,dr5ru4
+185,186,Manhattan,Penn Station/Madison Sq West,Yellow Zone,40.6331592,-74.1365318,"(40.6331592, -74.1365318)",40.64,-74.1,dr5r0v
+186,187,Staten Island,Port Richmond,Boro Zone,40.66143,-73.97035,"(40.66143, -73.97035)",40.66,-74.,dr5rkf
+187,188,Brooklyn,Prospect-Lefferts Gardens,Boro Zone,40.6778708,-73.9684725,"(40.6778708, -73.9684725)",40.68,-74.,dr5rkv
+188,189,Brooklyn,Prospect Heights,Boro Zone,40.66177525,-73.971099842403,"(40.66177525, -73.971099842403)",40.66,-74.,dr5rkd
+189,190,Brooklyn,Prospect Park,Boro Zone,40.7267692,-73.7415208,"(40.7267692, -73.7415208)",40.73,-73.7,dr5x9y
+190,191,Queens,Queens Village,Boro Zone,-33.8749139,151.227744284,"(-33.8749139, 151.227744284)",-33.87,151.2,r3gx33
+191,192,Queens,Queensboro Hill,Boro Zone,40.7615209,-73.9334640810134,"(40.7615209, -73.9334640810134)",40.76,-73.9,dr5rvs
+192,193,Queens,Queensbridge/Ravenswood,Boro Zone,40.7967677,-73.9220815,"(40.7967677, -73.9220815)",40.79,-73.9,dr72jf
+193,194,Manhattan,Randalls Island,Yellow Zone,40.6751032,-74.0095841,"(40.6751032, -74.0095841)",40.67,-74.,dr5r7u
+194,195,Brooklyn,Red Hook,Boro Zone,40.72293705,-73.8622065151304,"(40.72293705, -73.8622065151304)",40.72,-73.9,dr5rxj
+195,196,Queens,Rego Park,Boro Zone,40.6994253,-73.8309672,"(40.6994253, -73.8309672)",40.7,-73.8,dr5rxc
+196,197,Queens,Richmond Hill,Boro Zone,40.7080556,-73.9141667,"(40.7080556, -73.9141667)",40.71,-73.9,dr5rw4
+197,198,Queens,Ridgewood,Boro Zone,40.79193175,-73.8834937172795,"(40.79193175, -73.8834937172795)",40.79,-73.9,dr72n9
+198,199,Bronx,Rikers Island,Boro Zone,39.7922804,-84.2102191,"(39.7922804, -84.2102191)",39.79,-84.2,dph47e
+199,200,Bronx,Riverdale/North Riverdale/Fieldston,Boro Zone,40.5805104,-73.8361535,"(40.5805104, -73.8361535)",40.58,-73.8,dr5qzg
+200,201,Queens,Rockaway Park,Boro Zone,40.7614177,-73.9502281671115,"(40.7614177, -73.9502281671115)",40.76,-74.,dr5rvh
+201,202,Manhattan,Roosevelt Island,Boro Zone,40.6620479,-73.7354097,"(40.6620479, -73.7354097)",40.66,-73.7,dr5x64
+202,203,Queens,Rosedale,Boro Zone,40.5434385,-74.1976441,"(40.5434385, -74.1976441)",40.54,-74.2,dr5nxs
+203,204,Staten Island,Rossville/Woodrow,Boro Zone,40.6984364,-73.7606881,"(40.6984364, -73.7606881)",40.7,-73.8,dr5x98
+204,205,Queens,Saint Albans,Boro Zone,40.645349,-74.0929616,"(40.645349, -74.0929616)",40.65,-74.1,dr5r1z
+205,206,Staten Island,Saint George/New Brighton,Boro Zone,40.7453798,-73.9054145,"(40.7453798, -73.9054145)",40.75,-73.9,dr5ry1
+206,207,Queens,Saint Michaels Cemetery/Woodside,Boro Zone,40.8226008,-73.8095781,"(40.8226008, -73.8095781)",40.82,-73.8,dr780r
+207,208,Bronx,Schuylerville/Edgewater Park,Boro Zone,40.7057752,-74.0028376,"(40.7057752, -74.0028376)",40.71,-74.,dr5rs4
+208,209,Manhattan,Seaport,Yellow Zone,40.5826303,-73.9456187,"(40.5826303, -73.9456187)",40.58,-73.9,dr5qv7
+209,210,Brooklyn,Sheepshead Bay,Boro Zone,40.72288,-73.9987505,"(40.72288, -73.9987505)",40.72,-74.,dr5rsj
+210,211,Manhattan,SoHo,Yellow Zone,40.8266667,-73.8286111,"(40.8266667, -73.8286111)",40.83,-73.8,dr72rb
+211,212,Bronx,Soundview/Bruckner,Boro Zone,40.8189076,-73.8499209,"(40.8189076, -73.8499209)",40.82,-73.8,dr72pw
+212,213,Bronx,Soundview/Castle Hill,Boro Zone,40.5979271,-74.0980274,"(40.5979271, -74.0980274)",40.6,-74.1,dr5qcy
+213,214,Staten Island,South Beach/Dongan Hills,Boro Zone,40.6914852,-73.8056771,"(40.6914852, -73.8056771)",40.69,-73.8,dr5x2x
+214,215,Queens,South Jamaica,Boro Zone,40.6701035,-73.8190231,"(40.6701035, -73.8190231)",40.67,-73.8,dr5x25
+215,216,Queens,South Ozone Park,Boro Zone,33.775115,-79.59923,"(33.775115, -79.59923)",33.77,-79.6,dnp2hs
+216,217,Brooklyn,South Williamsburg,Boro Zone,40.678159,-73.746521,"(40.678159, -73.746521)",40.68,-73.7,dr5x3v
+217,218,Queens,Springfield Gardens North,Boro Zone,40.678159,-73.746521,"(40.678159, -73.746521)",40.68,-73.7,dr5x3v
+218,219,Queens,Springfield Gardens South,Boro Zone,40.8787051,-73.9051408,"(40.8787051, -73.9051408)",40.88,-73.9,dr72w1
+219,220,Bronx,Spuyten Duyvil/Kingsbridge,Boro Zone,40.6264774,-74.0776361,"(40.6264774, -74.0776361)",40.62,-74.1,dr5r47
+220,221,Staten Island,Stapleton,Boro Zone,40.6478541,-73.8795154568842,"(40.6478541, -73.8795154568842)",40.65,-73.9,dr5rnz
+221,222,Brooklyn,Starrett City,Boro Zone,40.7745459,-73.9037477,"(40.7745459, -73.9037477)",40.77,-73.9,dr5ryq
+222,223,Queens,Steinway,Boro Zone,40.7340429,-73.9776225,"(40.7340429, -73.9776225)",40.73,-74.,dr5rsx
+223,224,Manhattan,Stuy Town/Peter Cooper Village,Yellow Zone,40.6821123,-73.9347885534563,"(40.6821123, -73.9347885534563)",40.68,-73.9,dr5rmt
+224,225,Brooklyn,Stuyvesant Heights,Boro Zone,40.7398242,-73.9354153,"(40.7398242, -73.9354153)",40.74,-73.9,dr5rv8
+225,226,Queens,Sunnyside,Boro Zone,40.644337,-74.007532,"(40.644337, -74.007532)",40.65,-74.,dr5r5z
+226,227,Brooklyn,Sunset Park East,Boro Zone,40.644337,-74.007532,"(40.644337, -74.007532)",40.65,-74.,dr5r5z
+227,228,Brooklyn,Sunset Park West,Boro Zone,21.701497194,-157.99082937,"(21.701497194, -157.99082937)",21.7,-158.,87zeky
+228,229,Manhattan,Sutton Place/Turtle Bay North,Yellow Zone,40.7802614,-73.9687746503599,"(40.7802614, -73.9687746503599)",40.78,-74.,dr5ruz
+229,230,Manhattan,Times Sq/Theatre District,Yellow Zone,40.7141,-74.0028,"(40.7141, -74.0028)",40.71,-74.,dr5rs5
+230,231,Manhattan,TriBeCa/Civic Center,Yellow Zone,40.7152812,-73.9892866198562,"(40.7152812, -73.9892866198562)",40.71,-74.,dr5rs7
+231,232,Manhattan,Two Bridges/Seward Park,Yellow Zone,40.754,-73.9668,"(40.754, -73.9668)",40.76,-74.,dr5rug
+232,233,Manhattan,UN/Turtle Bay South,Yellow Zone,45.502991,-73.567464,"(45.502991, -73.567464)",45.5,-73.6,f25dvg
+233,234,Manhattan,Union Sq,Yellow Zone,40.8498223,-73.919859,"(40.8498223, -73.919859)",40.85,-73.9,dr72mu
+234,235,Bronx,University Heights/Morris Heights,Boro Zone,40.7735431,-73.9587337,"(40.7735431, -73.9587337)",40.77,-74.,dr5rvn
+235,236,Manhattan,Upper East Side North,Yellow Zone,40.7735431,-73.9587337,"(40.7735431, -73.9587337)",40.77,-74.,dr5rvn
+236,237,Manhattan,Upper East Side South,Yellow Zone,40.7870455,-73.9754163,"(40.7870455, -73.9754163)",40.79,-74.,dr72h9
+237,238,Manhattan,Upper West Side North,Yellow Zone,40.7870455,-73.9754163,"(40.7870455, -73.9754163)",40.79,-74.,dr72h9
+238,239,Manhattan,Upper West Side South,Yellow Zone,40.89725145,-73.8864989944736,"(40.89725145, -73.8864989944736)",40.9,-73.9,dr72wt
+239,240,Bronx,Van Cortlandt Park,Boro Zone,40.897934,-73.885948,"(40.897934, -73.885948)",40.9,-73.9,dr72wt
+240,241,Bronx,Van Cortlandt Village,Boro Zone,40.8523224,-73.8534682,"(40.8523224, -73.8534682)",40.85,-73.9,dr72rk
+241,242,Bronx,Van Nest/Morris Park,Boro Zone,40.8501001,-73.9354149,"(40.8501001, -73.9354149)",40.85,-73.9,dr72ms
+242,243,Manhattan,Washington Heights North,Boro Zone,40.8501001,-73.9354149,"(40.8501001, -73.9354149)",40.85,-73.9,dr72ms
+243,244,Manhattan,Washington Heights South,Boro Zone,40.645349,-74.0929616,"(40.645349, -74.0929616)",40.65,-74.1,dr5r1z
+244,245,Staten Island,West Brighton,Boro Zone,40.7535011,-74.0032370110498,"(40.7535011, -74.0032370110498)",40.75,-74.,dr5ru4
+245,246,Manhattan,West Chelsea/Hudson Yards,Yellow Zone,40.8224316,-73.9229433,"(40.8224316, -73.9229433)",40.82,-73.9,dr72jz
+246,247,Bronx,West Concourse,Boro Zone,40.9342192,-73.8348644,"(40.9342192, -73.8348644)",40.93,-73.8,dr72zg
+247,248,Bronx,West Farms/Bronx River,Boro Zone,40.7902778,-73.9597222,"(40.7902778, -73.9597222)",40.79,-74.,dr72j1
+248,249,Manhattan,West Village,Yellow Zone,40.8273229,-73.8501349,"(40.8273229, -73.8501349)",40.83,-73.9,dr72r2
+249,250,Bronx,Westchester Village/Unionport,Boro Zone,40.621215,-74.1318094,"(40.621215, -74.1318094)",40.62,-74.1,dr5r14
+250,251,Staten Island,Westerleigh,Boro Zone,40.7945457,-73.8184674,"(40.7945457, -73.8184674)",40.79,-73.8,dr7804
+251,252,Queens,Whitestone,Boro Zone,40.7546149,-73.8456598,"(40.7546149, -73.8456598)",40.76,-73.8,dr5rze
+252,253,Queens,Willets Point,Boro Zone,40.8780971,-73.8681175,"(40.8780971, -73.8681175)",40.88,-73.9,dr72x1
+253,254,Bronx,Williamsbridge/Olinville,Boro Zone,40.7081,-73.9571,"(40.7081, -73.9571)",40.71,-74.,dr5rt4
+254,255,Brooklyn,Williamsburg (North Side),Boro Zone,40.7081,-73.9571,"(40.7081, -73.9571)",40.71,-74.,dr5rt4
+255,256,Brooklyn,Williamsburg (South Side),Boro Zone,45.117874,-93.319572,"(45.117874, -93.319572)",45.12,-93.3,cbj8sm
+256,257,Brooklyn,Windsor Terrace,Boro Zone,40.6892698,-73.8579131,"(40.6892698, -73.8579131)",40.69,-73.9,dr5rrr
+257,258,Queens,Woodhaven,Boro Zone,40.8978772,-73.8523569,"(40.8978772, -73.8523569)",40.9,-73.9,dr72xm
+258,259,Bronx,Woodlawn/Wakefield,Boro Zone,40.7453798,-73.9054145,"(40.7453798, -73.9054145)",40.75,-73.9,dr5ry1
+259,260,Queens,Woodside,Boro Zone,40.7118914,-74.0126129,"(40.7118914, -74.0126129)",40.71,-74.,dr5reg
+260,261,Manhattan,World Trade Center,Yellow Zone,40.7789173,-73.9541667,"(40.7789173, -73.9541667)",40.78,-74.,dr5rvp
+261,262,Manhattan,Yorkville East,Yellow Zone,40.7789173,-73.9541667,"(40.7789173, -73.9541667)",40.78,-74.,dr5rvp
+262,263,Manhattan,Yorkville West,Yellow Zone,35.4756892,-114.8287477,"(35.4756892, -114.8287477)",35.48,-114.8,9qq3g4
+263,264,Unknown,NV,,0.0,0.0,"(0, 0)",-0.,-0.,7zzzzz
+264,265,Unknown,,,0.0,0.0,"(0, 0)",-0.,-0.,7zzzzz

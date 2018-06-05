@@ -1,0 +1,266 @@
+,lat_6,lon_6,locationID,geohash_6,Zone
+0,40.69,-74.2,1,dr5r2p,Newark Airport
+1,40.6,-73.8,2,dr5qzz,Jamaica Bay
+2,40.86,-73.8,3,dr72rw,Allerton/Pelham Gardens
+3,40.72,-74.0,4,dr5rst,Alphabet City
+4,40.56,-74.2,5,dr5nxz,Arden Heights
+5,40.6,-74.1,6,dr5qfz,Arrochar/Fort Wadsworth
+6,40.77,-73.9,7,dr5rvw,Astoria
+7,40.78,-73.9,8,dr5rvz,Astoria Park
+8,40.77,-73.8,9,dr5xbv,Auburndale
+9,40.69,-73.8,10,dr5x3q,Baisley Park
+10,40.6,-74.0,11,dr5qun,Bath Beach
+11,40.7,-74.0,12,dr5re9,Battery Park
+12,40.71,-74.0,13,dr5ree,Battery Park City
+13,40.64,-74.0,14,dr5r5v,Bay Ridge
+14,40.79,-73.8,15,dr7814,Bay Terrace/Fort Totten
+15,40.77,-73.8,16,dr5xcj,Bayside
+16,40.72,-74.0,17,dr5rth,Bedford
+17,40.87,-73.9,18,dr72w8,Bedford Park
+18,40.73,-73.7,19,dr5xdx,Bellerose
+19,40.86,-73.9,20,dr72qt,Belmont
+20,40.6,-74.0,21,dr5qup,Bensonhurst East
+21,40.6,-74.0,22,dr5qup,Bensonhurst West
+22,40.61,-74.1,23,dr5r1b,Bloomfield/Emerson Hill
+23,40.8,-74.0,24,dr72hg,Bloomingdale
+24,40.69,-74.0,25,dr5rkq,Boerum Hill
+25,40.64,-74.0,26,dr5rhj,Borough Park
+26,40.56,-73.9,27,dr5qy2,Breezy Point/Fort Tilden/Riis Beach
+27,40.71,-73.8,28,dr5x8e,Briarwood/Jamaica Hills
+28,40.58,-74.0,29,dr5qv4,Brighton Beach
+29,40.61,-73.8,30,dr5x00,Broad Channel
+30,40.86,-73.9,31,dr72qy,Bronx Park
+31,40.85,-73.9,32,dr72rh,Bronxdale
+32,40.7,-74.0,33,dr5rs0,Brooklyn Heights
+33,40.7,-74.0,34,dr5rsc,Brooklyn Navy Yard
+34,40.67,-73.9,35,dr5rq5,Brownsville
+35,40.7,-73.9,36,dr5rtb,Bushwick North
+36,40.7,-73.9,37,dr5rtb,Bushwick South
+37,40.7,-73.7,38,dr5xd0,Cambria Heights
+38,40.64,-73.9,39,dr5rnq,Canarsie
+39,40.68,-74.0,40,dr5rkj,Carroll Gardens
+40,40.81,-73.9,41,dr72jk,Central Harlem
+41,40.81,-73.9,42,dr72jk,Central Harlem North
+42,40.78,-74.0,43,dr72hb,Central Park
+43,40.51,-74.3,44,dr5nqq,Charleston/Tottenville
+44,40.72,-74.0,45,dr5rsh,Chinatown
+45,40.85,-73.8,46,dr782u,City Island
+46,40.84,-73.9,47,dr72q6,Claremont/Bathgate
+47,40.76,-74.0,48,dr5ru5,Clinton East
+48,40.69,-74.0,49,dr5rkz,Clinton Hill
+49,40.76,-74.0,50,dr5ru5,Clinton West
+50,40.87,-73.8,51,dr72xb,Co-Op City
+51,40.69,-74.0,52,dr5rkn,Cobble Hill
+52,40.79,-73.8,53,dr72p9,College Point
+53,40.69,-74.0,54,dr5r7y,Columbia Street
+54,40.58,-74.0,55,dr5qu6,Coney Island
+55,40.75,-73.9,56,dr5rz3,Corona
+56,40.75,-73.9,57,dr5rz3,Corona
+57,40.84,-73.8,58,dr7824,Country Club
+58,40.84,-73.9,59,dr72qd,Crotona Park
+59,40.84,-73.9,60,dr72qd,Crotona Park East
+60,40.67,-73.9,61,dr5rm7,Crown Heights North
+61,40.67,-73.9,62,dr5rm7,Crown Heights South
+62,40.68,-73.9,63,dr5rqt,Cypress Hills
+63,40.77,-73.7,64,dr5xcv,Douglaston
+64,40.7,-74.0,65,dr5rs2,Downtown Brooklyn/MetroTech
+65,40.7,-74.0,66,dr5rs3,DUMBO/Vinegar Hill
+66,40.62,-74.0,67,dr5r5f,Dyker Heights
+67,40.75,-74.0,68,dr5ru1,East Chelsea
+68,40.82,-73.9,69,dr72jz,East Concourse/Concourse Village
+69,40.76,-73.9,70,dr5rzh,East Elmhurst
+70,40.64,-74.0,71,dr5rjj,East Flatbush/Farragut
+71,40.7,-74.0,72,dr5rs0,East Flatbush/Remsen Village
+72,40.77,-73.8,73,dr5xbj,East Flushing
+73,40.79,-73.9,74,dr72j6,East Harlem North
+74,40.79,-73.9,75,dr72j6,East Harlem South
+75,40.65,-74.0,76,dr5rm0,East New York
+76,40.66,-73.9,77,dr5rq6,East New York/Pennsylvania Avenue
+77,40.84,-73.9,78,dr72qe,East Tremont
+78,40.73,-74.0,79,dr5rsq,East Village
+79,40.71,-73.9,80,dr5rtd,East Williamsburg
+80,40.89,-73.8,81,dr72xg,Eastchester
+81,40.73,-73.9,82,dr5rwz,Elmhurst
+82,40.72,-73.9,83,dr5rwj,Elmhurst/Maspeth
+83,40.54,-74.2,84,dr5q8h,Eltingville/Annadale/Prince's Bay
+84,40.65,-74.0,85,dr5rm0,Erasmus
+85,40.6,-73.8,86,dr5wcx,Far Rockaway
+86,40.76,-74.0,87,dr5ru7,Financial District North
+87,40.76,-74.0,88,dr5ru7,Financial District South
+88,40.64,-74.0,89,dr5rhv,Flatbush/Ditmas Park
+89,40.74,-74.0,90,dr5ru2,Flatiron
+90,40.62,-73.9,91,dr5rjd,Flatlands
+91,40.77,-73.8,92,dr5xbj,Flushing
+92,40.74,-73.8,93,dr5rz8,Flushing Meadows-Corona Park
+93,40.86,-73.9,94,dr72qq,Fordham South
+94,36.58,-82.1,95,dnt855,Forest Hills
+95,40.69,-73.9,96,dr5rqw,Forest Park/Highland Park
+96,40.69,-74.0,97,dr5rkx,Fort Greene
+97,40.73,-73.8,98,dr5x9p,Fresh Meadows
+98,40.58,-74.2,99,dr5nzg,Freshkills Park
+99,40.76,-74.0,100,dr5ru7,Garment District
+100,40.75,-73.7,101,dr5xf9,Glen Oaks
+101,40.7,-73.9,102,dr5rw9,Glendale
+102,40.7,-74.0,103,dr5re0,Governor's Island/Ellis Island/Liberty Island
+103,40.7,-74.0,104,dr5re0,Governor's Island/Ellis Island/Liberty Island
+104,40.7,-74.0,105,dr5re0,Governor's Island/Ellis Island/Liberty Island
+105,40.68,-74.0,106,dr5rkm,Gowanus
+106,40.74,-74.0,107,dr5ru2,Gramercy
+107,40.6,-74.0,108,dr5quw,Gravesend
+108,40.55,-74.2,109,dr5q8w,Great Kills
+109,40.55,-74.1,110,dr5q9j,Great Kills Park
+110,40.65,-74.0,111,dr5rk2,Green-Wood Cemetery
+111,40.72,-74.0,112,dr5rtj,Greenpoint
+112,40.73,-74.0,113,dr5rsp,Greenwich Village North
+113,40.73,-74.0,114,dr5rsp,Greenwich Village South
+114,40.62,-74.1,115,dr5r46,Grymes Hill/Clifton
+115,40.82,-74.0,116,dr72jp,Hamilton Heights
+116,40.59,-73.8,117,dr5wbv,Hammels/Arverne
+117,40.58,-74.2,118,dr5qbe,Heartland Village/Todt Hill
+118,40.84,-73.9,119,dr72md,Highbridge
+119,40.84,-73.9,120,dr72me,Highbridge Park
+120,40.73,-73.8,121,dr5x8r,Hillcrest/Pomonok
+121,40.71,-73.8,122,dr5x97,Hollis
+122,40.59,-74.0,123,dr5qvh,Homecrest
+123,40.66,-73.8,124,dr5rrc,Howard Beach
+124,40.79,-74.0,125,dr72j1,Hudson Sq
+125,40.81,-73.9,126,dr72nt,Hunts Point
+126,40.87,-73.9,127,dr72mz,Inwood
+127,40.87,-73.9,128,dr72tb,Inwood Hill Park
+128,40.76,-73.9,129,dr5rye,Jackson Heights
+129,40.69,-73.8,130,dr5x2x,Jamaica
+130,17.99,-77.0,131,d71q27,Jamaica Estates
+131,40.64,-73.8,132,dr5x1n,JFK Airport
+132,40.65,-74.0,133,dr5rhz,Kensington
+133,40.71,-73.8,134,dr5rxg,Kew Gardens
+134,40.74,-73.8,135,dr5xb2,Kew Gardens Hills
+135,40.87,-73.9,136,dr72w2,Kingsbridge Heights
+136,40.74,-74.0,137,dr5ru8,Kips Bay
+137,40.77,-73.9,138,dr5ryy,LaGuardia Airport
+138,40.67,-73.8,139,dr5x3e,Laurelton
+139,40.77,-74.0,140,dr5rvj,Lenox Hill East
+140,40.77,-74.0,141,dr5rvj,Lenox Hill West
+141,40.77,-74.0,142,dr5ruq,Lincoln Square East
+142,40.77,-74.0,143,dr5ruq,Lincoln Square West
+143,40.72,-74.0,144,dr5rsj,Little Italy/NoLiTa
+144,37.73,-122.4,145,9q8yxk,Long Island City/Hunters Point
+145,40.75,-73.9,146,dr5rvd,Long Island City/Queens Plaza
+146,40.82,-73.9,147,dr72nq,Longwood
+147,40.72,-74.0,148,dr5rsk,Lower East Side
+148,30.46,-83.4,149,djktmc,Madison
+149,40.58,-73.9,150,dr5qv6,Manhattan Beach
+150,40.79,-74.0,151,dr72j1,Manhattan Valley
+151,40.82,-74.0,152,dr72jn,Manhattanville
+152,40.88,-73.9,153,dr72w1,Marble Hill
+153,40.59,-73.9,154,dr5qys,Marine Park/Floyd Bennett Field
+154,40.6,-73.9,155,dr5qyp,Marine Park/Mill Basin
+155,40.64,-74.2,156,dr5r0m,Mariners Harbor
+156,40.72,-73.9,157,dr5rwj,Maspeth
+157,39.2,-96.6,158,9ygr1b,Meatpacking/West Village West
+158,40.82,-73.9,159,dr72np,Melrose South
+159,40.72,-73.9,160,dr5rwu,Middle Village
+160,40.76,-74.0,161,dr5ru7,Midtown Center
+161,40.75,-74.0,162,dr5ruc,Midtown East
+162,40.77,-74.0,163,dr5rum,Midtown North
+163,40.77,-74.0,164,dr5rum,Midtown South
+164,40.62,-74.0,165,dr5rhf,Midwood
+165,40.82,-73.9,166,dr72np,Morningside Heights
+166,40.8,-73.9,167,dr72n5,Morrisania/Melrose
+167,40.85,-73.9,168,dr72qh,Mott Haven/Port Morris
+168,40.75,-74.0,169,dr5ru9,Mount Hope
+169,40.76,-73.8,170,dr5xbk,Murray Hill
+170,40.58,-74.1,171,dr5qcf,Murray Hill-Queens
+171,40.75,-73.8,172,dr5rz9,New Dorp/Midland Beach
+172,40.88,-73.9,173,dr72wc,North Corona
+173,40.76,-73.8,174,dr5xc7,Norwood
+174,40.56,-74.1,175,dr5qc2,Oakland Gardens
+175,40.67,-73.9,176,dr5rqh,Oakwood
+176,40.58,-74.0,177,dr5quf,Ocean Hill
+177,40.77,-73.9,178,dr5rvw,Ocean Parkway South
+178,40.67,-73.8,179,dr5rrs,Old Astoria
+179,40.67,-74.0,180,dr5rk7,Ozone Park
+180,40.84,-73.9,181,dr72r6,Park Slope
+181,40.85,-73.8,182,dr72ru,Parkchester
+182,40.86,-73.8,183,dr782j,Pelham Bay
+183,40.86,-73.9,184,dr72rm,Pelham Bay Park
+184,40.75,-74.0,185,dr5ru4,Pelham Parkway
+185,40.64,-74.1,186,dr5r0v,Penn Station/Madison Sq West
+186,40.66,-74.0,187,dr5rkf,Port Richmond
+187,40.68,-74.0,188,dr5rkv,Prospect-Lefferts Gardens
+188,40.66,-74.0,189,dr5rkd,Prospect Heights
+189,40.73,-73.7,190,dr5x9y,Prospect Park
+190,-33.87,151.2,191,r3gx33,Queens Village
+191,40.76,-73.9,192,dr5rvs,Queensboro Hill
+192,40.79,-73.9,193,dr72jf,Queensbridge/Ravenswood
+193,40.67,-74.0,194,dr5r7u,Randalls Island
+194,40.72,-73.9,195,dr5rxj,Red Hook
+195,40.7,-73.8,196,dr5rxc,Rego Park
+196,40.71,-73.9,197,dr5rw4,Richmond Hill
+197,40.79,-73.9,198,dr72n9,Ridgewood
+198,39.79,-84.2,199,dph47e,Rikers Island
+199,40.58,-73.8,200,dr5qzg,Riverdale/North Riverdale/Fieldston
+200,40.76,-74.0,201,dr5rvh,Rockaway Park
+201,40.66,-73.7,202,dr5x64,Roosevelt Island
+202,40.54,-74.2,203,dr5nxs,Rosedale
+203,40.7,-73.8,204,dr5x98,Rossville/Woodrow
+204,40.65,-74.1,205,dr5r1z,Saint Albans
+205,40.75,-73.9,206,dr5ry1,Saint George/New Brighton
+206,40.82,-73.8,207,dr780r,Saint Michaels Cemetery/Woodside
+207,40.71,-74.0,208,dr5rs4,Schuylerville/Edgewater Park
+208,40.58,-73.9,209,dr5qv7,Seaport
+209,40.72,-74.0,210,dr5rsj,Sheepshead Bay
+210,40.83,-73.8,211,dr72rb,SoHo
+211,40.82,-73.8,212,dr72pw,Soundview/Bruckner
+212,40.6,-74.1,213,dr5qcy,Soundview/Castle Hill
+213,40.69,-73.8,214,dr5x2x,South Beach/Dongan Hills
+214,40.67,-73.8,215,dr5x25,South Jamaica
+215,33.77,-79.6,216,dnp2hs,South Ozone Park
+216,40.68,-73.7,217,dr5x3v,South Williamsburg
+217,40.68,-73.7,218,dr5x3v,Springfield Gardens North
+218,40.88,-73.9,219,dr72w1,Springfield Gardens South
+219,40.62,-74.1,220,dr5r47,Spuyten Duyvil/Kingsbridge
+220,40.65,-73.9,221,dr5rnz,Stapleton
+221,40.77,-73.9,222,dr5ryq,Starrett City
+222,40.73,-74.0,223,dr5rsx,Steinway
+223,40.68,-73.9,224,dr5rmt,Stuy Town/Peter Cooper Village
+224,40.74,-73.9,225,dr5rv8,Stuyvesant Heights
+225,40.65,-74.0,226,dr5r5z,Sunnyside
+226,40.65,-74.0,227,dr5r5z,Sunset Park East
+227,21.7,-158.0,228,87zeky,Sunset Park West
+228,40.78,-74.0,229,dr5ruz,Sutton Place/Turtle Bay North
+229,40.71,-74.0,230,dr5rs5,Times Sq/Theatre District
+230,40.71,-74.0,231,dr5rs7,TriBeCa/Civic Center
+231,40.76,-74.0,232,dr5rug,Two Bridges/Seward Park
+232,45.5,-73.6,233,f25dvg,UN/Turtle Bay South
+233,40.85,-73.9,234,dr72mu,Union Sq
+234,40.77,-74.0,235,dr5rvn,University Heights/Morris Heights
+235,40.77,-74.0,236,dr5rvn,Upper East Side North
+236,40.79,-74.0,237,dr72h9,Upper East Side South
+237,40.79,-74.0,238,dr72h9,Upper West Side North
+238,40.9,-73.9,239,dr72wt,Upper West Side South
+239,40.9,-73.9,240,dr72wt,Van Cortlandt Park
+240,40.85,-73.9,241,dr72rk,Van Cortlandt Village
+241,40.85,-73.9,242,dr72ms,Van Nest/Morris Park
+242,40.85,-73.9,243,dr72ms,Washington Heights North
+243,40.65,-74.1,244,dr5r1z,Washington Heights South
+244,40.75,-74.0,245,dr5ru4,West Brighton
+245,40.82,-73.9,246,dr72jz,West Chelsea/Hudson Yards
+246,40.93,-73.8,247,dr72zg,West Concourse
+247,40.79,-74.0,248,dr72j1,West Farms/Bronx River
+248,40.83,-73.9,249,dr72r2,West Village
+249,40.62,-74.1,250,dr5r14,Westchester Village/Unionport
+250,40.79,-73.8,251,dr7804,Westerleigh
+251,40.76,-73.8,252,dr5rze,Whitestone
+252,40.88,-73.9,253,dr72x1,Willets Point
+253,40.71,-74.0,254,dr5rt4,Williamsbridge/Olinville
+254,40.71,-74.0,255,dr5rt4,Williamsburg (North Side)
+255,45.12,-93.3,256,cbj8sm,Williamsburg (South Side)
+256,40.69,-73.9,257,dr5rrr,Windsor Terrace
+257,40.9,-73.9,258,dr72xm,Woodhaven
+258,40.75,-73.9,259,dr5ry1,Woodlawn/Wakefield
+259,40.71,-74.0,260,dr5reg,Woodside
+260,40.78,-74.0,261,dr5rvp,World Trade Center
+261,40.78,-74.0,262,dr5rvp,Yorkville East
+262,35.48,-114.8,263,9qq3g4,Yorkville West
+263,-0.0,-0.0,264,7zzzzz,NV
+264,-0.0,-0.0,265,7zzzzz,
